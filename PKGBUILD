@@ -1,5 +1,5 @@
 pkgname=kfoldersync
-pkgver=3.1.2
+pkgver=3.1.3
 pkgrel=1
 pkgdesc="Folder synchronization and backup tool for KDE"
 arch=('x86_64')
@@ -7,7 +7,7 @@ url='http://kde-apps.org/content/show.php/KFolderSync?content=164092'
 license=('GPL')
 makedepends=('cmake' 'extra-cmake-modules')
 source=("http://kde-apps.org/CONTENT/content-files/164092-${pkgname}-${pkgver}.tar.xz")
-md5sums=('74ab8ed87c586bde9b5fd34b617d09e6')
+md5sums=('83ceba10564a8307bc8c9f2d930aa0c5')
 
 
 prepare() {
