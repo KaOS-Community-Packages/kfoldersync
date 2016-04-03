@@ -17,3 +17,9 @@ Folder synchronization and backup tool for KDE
     - Multithreading
     - Reset option
     - Filters
+
+
+
+install:
+
+kcp -i kfoldersync
